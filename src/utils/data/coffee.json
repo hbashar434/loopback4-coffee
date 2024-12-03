@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Coffee": 3
+  },
+  "models": {
+    "Coffee": {
+      "1": "{\"name\":\"Espresso\",\"type\":\"Espresso\",\"price\":2.5,\"flavor\":\"Classic\",\"id\":1}",
+      "2": "{\"name\":\"Latte\",\"type\":\"Espresso\",\"price\":3.5,\"flavor\":\"Caramel\",\"id\":2}"
+    }
+  }
+}
